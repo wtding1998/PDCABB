@@ -8,7 +8,7 @@ This project is supported by the National Natural Science Foundation of China (G
 ```console
 git clone https://github.com/niuyishuai/PDCABB.git
 ```
-  2. Use Visual Studio to compile codes (DCABB_PARAL or DCABB_DLL).
+  2. Use Visual Studio (2019) to compile codes (DCABB_PARAL or DCABB_DLL).
 
 ## Citation
 
